@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23D1939B-9665-444A-BB8E-652D7C3886D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PlaceHolderTextView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B041F62283A4762838CB2916E7C0FDCE195D12A1</key>
+		<string>https://github.com/yuduo/UIPlaceHolderTextView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PlaceHolderTextView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B041F62283A4762838CB2916E7C0FDCE195D12A1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yuduo/UIPlaceHolderTextView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B041F62283A4762838CB2916E7C0FDCE195D12A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B041F62283A4762838CB2916E7C0FDCE195D12A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIPlaceHolderTextView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
