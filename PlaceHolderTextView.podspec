@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'PlaceHolderTextView'
-  s.version      = '1.0'
+  s.version      = '1.2'
   s.license      =  'MIT'
   s.homepage     = 'https://github.com/yuduo/UIPlaceHolderTextView'
 s.authors      =  {'yuduo' => ''}
@@ -8,7 +8,7 @@ s.authors      =  {'yuduo' => ''}
 
 # Source Info
   s.platform     =  :ios, '7.0'
-s.source       =  {:git => 'https://github.com/yuduo/UIPlaceHolderTextView.git', :tag => '#{s.version}'}
+s.source       =  {:git => 'https://github.com/yuduo/UIPlaceHolderTextView.git',:branch=>'master', :tag => '#{s.version}'}
 s.source_files = 'UIPlaceHolderTextView/UIPlaceHolderTextView.{h,m}'
 
 
