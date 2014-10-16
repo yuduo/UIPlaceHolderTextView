@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'PlaceHolderTextView'
-  s.version      = ‘1.3’
+  s.version      = '1.3'
   s.license      =  'MIT'
   s.homepage     = 'https://github.com/yuduo/UIPlaceHolderTextView'
 s.authors      =  {'yuduo' => ''}
